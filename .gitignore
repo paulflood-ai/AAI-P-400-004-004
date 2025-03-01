@@ -1,0 +1,64 @@
+# Python Virtual Environment
+venv/
+.venv/
+
+# Python Bytecode and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS System Files
+.DS_Store
+
+# IDE Specific Files (VS Code)
+.vscode/
+*.swp   # Vim swap files
+*.swo
+
+# Log Files
+*.log
+
+# Temporary Files and Directories
+tmp/
+temp/
+*.tmp
+
+# Distribution / Build Files
+dist/
+build/
+*.egg-info/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# OS generated files
+Thumbs.db
+
+# Dependency directories
+node_modules/ # Node.js
+
+# Coverage data files
+.coverage
+coverage/
+
+# Documentation build output
+docs/_build/
+
+# Compiled extensions
+*.so
+*.dll
+*.dylib
+
+# Secrets
+secrets.yaml
+secrets.json
