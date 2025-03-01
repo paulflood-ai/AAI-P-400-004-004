@@ -69,7 +69,7 @@ def capture_youtube_screenshot_and_paste_to_sheets(youtube_url, sheet_name, cell
         print(f"An unexpected error occurred: {e}")
 
 # Example usage:
-youtube_url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  # Replace with your YouTube URL
+youtube_url = "https://www.youtube.com/watch?v=FmtJ22fhOvw"  # Replace with your YouTube URL
 sheet_name = "My YouTube Screenshots"  # Replace with your Google Sheet name
 cell_to_paste = "A1"
 
